@@ -4,7 +4,7 @@ Self-refinement approach for resolving model uncertainty in optimization formula
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.10+
 - Anthropic API key
 - Gurobi solver with valid license
 
