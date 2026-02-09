@@ -1,4 +1,4 @@
-# Uncertainty Resolution with Self-Refinement
+# Uncertainty-Aware Optimization Autoformulation with Self-Refinement
 
 Self-refinement approach for resolving model uncertainty in optimization formulations. The system generates multiple candidate formulations, evaluates them using structured feedback, and iteratively refines them until quality converges.
 
